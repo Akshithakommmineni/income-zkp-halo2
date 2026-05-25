@@ -1,0 +1,8 @@
+/target/
+*.zkey
+*.ptau
+*.wtns
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

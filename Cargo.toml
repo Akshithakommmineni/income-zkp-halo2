@@ -1,0 +1,8 @@
+[package]
+name = "income_zkp"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+halo2_proofs = { version = "0.2.0", features = ["dev-graph"] }
+rand = "0.8"
