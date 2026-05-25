@@ -175,6 +175,8 @@ rand = "0.8"
  Name 
 
  Akshitha Kommineni
+
+ 
  Thatathoti Laasya 
 
 **Guide:** Dr. Mukkoti Maruthi Venkata Chalapathi
