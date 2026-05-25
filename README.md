@@ -172,10 +172,10 @@ rand = "0.8"
 
 ## Authors
 
-| Name 
-|---|---|
-| Akshitha Kommineni |
-| Thatathoti Laasya |
+ Name 
+
+ Akshitha Kommineni
+ Thatathoti Laasya 
 
 **Guide:** Dr. Mukkoti Maruthi Venkata Chalapathi
 **School of Computer Science and Engineering, VIT-AP University, Amaravati — May 2026**
